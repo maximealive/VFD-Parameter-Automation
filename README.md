@@ -18,10 +18,13 @@ Arduino Nano
 
 Buttons
 
-# Connections
+*OBS*
+- each relay is connected to a single VFD's button as shown in the figure below.
+
+## Connections
 fare disegno su mac tramite draw
 
-# Software
+## Software
 Arduino IDE (VEDERE SE SCRIVERE VERSIONE)
 
 
