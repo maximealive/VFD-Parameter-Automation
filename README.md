@@ -14,6 +14,12 @@ Arduino Nano
 
 Buttons
 
+# Connections
+fare disegno su mac tramite draw
+
+# Software
+Arduino IDE (VEDERE SE SCRIVERE VERSIONE)
+
 
 
 DA AGGIUNGERE A "TODO" O COME MIGLIORAMENTI, ETC -> leggere file nella cartella zip "Francis_VFD.zip" che si trova nela repository privata.
