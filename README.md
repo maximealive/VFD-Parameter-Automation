@@ -8,7 +8,7 @@ be sure that you can change the 380V device connections to operate at 220V(usefu
 ## Hardware
 VFD             |  Arduino (nano)             |5V 8-Channel Relay Module  |
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img src="https://github.com/maximealive/VFD-Parameter-Automation/blob/main/images/vfd.jpg" width="100" height="100" />  |  <img src="https://user-images.githubusercontent.com/12975980/149148979-3c30bb2f-e8ec-4d13-b4b2-b634d4bb84a3.jpg" width="100" height="100" />  |<img src="https://user-images.githubusercontent.com/12975980/149150298-bc503122-0125-4117-a21d-d7fe446f0cd4.jpg" width="100" height="100" />  | 
+<img src="https://github.com/maximealive/VFD-Parameter-Automation/blob/main/images/vfd.jpg" width="100" height="100" />  |  <img src="https://github.com/maximealive/VFD-Parameter-Automation/blob/main/images/arduino.jpg" width="100" height="100" />  |<img src="https://github.com/maximealive/VFD-Parameter-Automation/blob/main/images/relays.jpg" width="100" height="100" />  | 
 
 BuoQua 4KW 220V 5HP Trasformatore VFD Velocità Controllato Variatore Di Frequenza Inverter 5HP Frequenza Diver Inverter Professionale
 
