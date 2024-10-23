@@ -19,7 +19,7 @@ Arduino Nano
 Buttons
 
 *OBS*
-- each relay is connected to a single VFD's button as shown in the figure below.
+- each relay is connected to a single VFD's button as shown in the figure below(the VFD keypad can be unmounted in order to reach the buttons and to solder wires and connect them to the realy module). RISCRIVERE QUESTA FRASE E VEDERE SE AGGIUNGERE IMMAGINE DEL PULSANTE
 
 ## Connections
 fare disegno su mac tramite draw
