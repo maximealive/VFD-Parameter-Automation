@@ -16,7 +16,7 @@ VFD             |  Arduino (nano)             |5V 8-Channel Relay Module  |
 
 \* I used the following VFD model: BuoQua 4KW 220V 5HP Trasformatore VFD Velocità Controllato Variatore Di Frequenza Inverter 5HP Frequenza Diver Inverter Professionale
 
-** Buttons: three external buttons were necessary to control three separate motors driven by a VFD. Please note that simultaneous control of multiple motors is feasible only if they are identical. Each motor necessitated unique parameter settings, including RPM, torque and so on. 
+** Buttons: three external buttons were necessary to control three separate motors driven by a VFD(in my case, one for a sander machine, another one for the planar and the last one for a Toupie machine). Please note that simultaneous control of multiple motors is feasible only if they are identical. Each motor necessitated unique parameter settings, including RPM, torque and so on.
 
 ## Connections
 fare disegno su mac tramite draw
