@@ -23,8 +23,9 @@ fare disegno su mac tramite draw
 
 \* Each relay is connected to a single button on the VFD, as shown in the figure below. The VFD keypad can be unmounted to access the buttons for soldering wires and connecting them to the relay module:
 
-AGGIUNGERE IMMAGINE
-
+<p align="center">
+  <img width="300" height="380" src="https://github.com/user-attachments/assets/35de1f4c-8ab4-415b-973a-017fcb451f84">
+</p>
 
 ## Software
 Arduino IDE<br>
