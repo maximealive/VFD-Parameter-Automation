@@ -3,10 +3,9 @@
 # Introduction
 Use 380V- AC devices with a 220V-AC furniture in a smart and efficient way using a VFD and an arduino.<br><br>
 <ins> NOTE </ins> <br>
-be sure that you can change the 380V device connections to operate at 220V:<br>
-![img_VFD](https://github.com/user-attachments/assets/c3fd1e39-4385-490a-90b2-c47ab7d462c4)
+be sure that you can change the 380V device connections to operate at 220V (useful link: https://www.quora.com/How-do-I-change-an-induction-motor-from-a-3-phase-380V-input-to-a-3-phase-220V-input):<br>
 
-(useful link: https://www.quora.com/How-do-I-change-an-induction-motor-from-a-3-phase-380V-input-to-a-3-phase-220V-input )
+![img_VFD](https://github.com/user-attachments/assets/c3fd1e39-4385-490a-90b2-c47ab7d462c4)
 
 ## Hardware
 VFD             |  Arduino (nano)             |5V 8-Channel Relay Module  |
