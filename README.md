@@ -18,11 +18,12 @@ VFD             |  Arduino (nano)             |5V 8-Channel Relay Module  |
 
 **Buttons: three external buttons were necessary to control three separate motors driven by a VFD. Please note that simultaneous control of multiple motors is feasible only if they are identical. Each motor necessitated unique parameter settings, including RPM, torque and so on. 
 
+## Connections
+fare disegno su mac tramite draw
+
 *OBS*
 - each relay is connected to a single VFD's button as shown in the figure below(the VFD keypad can be unmounted in order to reach the buttons and to solder wires and connect them to the realy module). RISCRIVERE QUESTA FRASE E VEDERE SE AGGIUNGERE IMMAGINE DEL PULSANTE
 
-## Connections
-fare disegno su mac tramite draw
 
 ## Software
 Arduino IDE (VEDERE SE SCRIVERE VERSIONE)
