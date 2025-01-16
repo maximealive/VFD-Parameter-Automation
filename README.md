@@ -28,6 +28,10 @@ fare disegno su mac tramite draw
 ## Software
 Arduino IDE (VEDERE SE SCRIVERE VERSIONE)
 
+## ToDo
+1) Implements remote control using one or more of the following implementations:<br>
+- TV remote controller -> accordingly add IR module
+- Telegram Bot -> change Arduino, for example, with an ESP32 (https://github.com/maximealive/TelegramBot_ESP32-W5500; take into account that an internet connection is required)
+- Bluetooth -> bluetooth module and an Android/iOS application are required
 
-
-DA AGGIUNGERE A "TODO" O COME MIGLIORAMENTI, ETC -> leggere file nella cartella zip "Francis_VFD.zip" che si trova nela repository privata.
+2) Give the possibility to set and store the motor's parameters -> add an LCD and something like a keypad
