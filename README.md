@@ -31,8 +31,13 @@ Each relay is connected to a single button on the VFD, as shown. The VFD keypad 
   <img width="300" height="380" src="https://github.com/user-attachments/assets/35de1f4c-8ab4-415b-973a-017fcb451f84">
 </p>
 
+## Result
+
+
 ## Issues
-consider the logic of the relays, it depends if they have a dedicated power supply or not
+- Take into account the logic of the relays, it depends if they have a dedicated power supply or not
+- Arduino pins during the boot could go high/low, be carful about that to avoid unwanted behaviours
+- Switch bounce: https://docs.arduino.cc/built-in-examples/digital/Debounce/ (it's possible to achieve it hardware or software)
 
 ## ToDo
 1) Implements remote control using one or more of the following implementations:<br>
