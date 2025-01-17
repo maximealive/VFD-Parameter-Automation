@@ -18,21 +18,21 @@ VFD             |  Arduino (nano)             |5V 8-Channel Relay Module  |
 
 ** Buttons: three external buttons were necessary to control three separate motors driven by a VFD(in my case, one for a sander machine, another one for the planar and the last one for a Toupie machine). Please note that simultaneous control of multiple motors is feasible only if they are identical. Each motor necessitated unique parameter settings, including RPM, torque and so on.
 
+## Software
+Arduino IDE
+
 ## Connections
-<img src="https://github.com/user-attachments/assets/6eb61700-b27b-497e-a865-610379736898" width="300" height="300" />
-
-
-
-
-\* Each relay is connected to a single button on the VFD, as shown in the figure below. The VFD keypad can be unmounted to access the buttons for soldering wires and connecting them to the relay module:
+Each relay is connected to a single button on the VFD, as shown. The VFD keypad can be unmounted to access the buttons for soldering wires and connecting them to the relay module.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6eb61700-b27b-497e-a865-610379736898" width="300" height="300" />
+</p>
 
 <p align="center">
   <img width="300" height="380" src="https://github.com/user-attachments/assets/35de1f4c-8ab4-415b-973a-017fcb451f84">
 </p>
 
-## Software
-Arduino IDE<br>
-\* consider the logic of the relays, it depends if they have a dedicated power supply or not
+## Issues
+consider the logic of the relays, it depends if they have a dedicated power supply or not
 
 ## ToDo
 1) Implements remote control using one or more of the following implementations:<br>
