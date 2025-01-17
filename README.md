@@ -12,7 +12,7 @@ be sure that you can change the 380V device connections to operate at 220V (usef
 ## Hardware
 VFD             |  Arduino (nano)             |5V 8-Channel Relay Module  |
 :-------------------------:|:-------------------------:|:-------------------------:|
-<img src="https://github.com/maximealive/VFD-Parameter-Automation/blob/main/images/vfd.jpg" width="100" height="100" />  |  <img src="https://github.com/maximealive/VFD-Parameter-Automation/blob/main/images/arduino.jpg" width="100" height="100" />  |<img src="https://github.com/maximealive/VFD-Parameter-Automation/blob/main/images/relays.jpg" width="100" height="100" />  | 
+<img src="https://github.com/user-attachments/assets/d701328b-6d08-44ea-a0f6-a48747c7c25a" width="100" height="100" />  |  <img src="https://github.com/user-attachments/assets/fdc74bed-b436-4e63-b077-62585f0678e6" width="100" height="100" />  |<img src="https://github.com/user-attachments/assets/246276cd-cc9f-41c6-be08-7d0bec98bc00" width="100" height="100" />  | 
 
 \* I used the following VFD model: BuoQua 4KW 220V 5HP Trasformatore VFD Velocità Controllato Variatore Di Frequenza Inverter 5HP Frequenza Diver Inverter Professionale
 
