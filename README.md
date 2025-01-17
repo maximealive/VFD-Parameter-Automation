@@ -33,8 +33,10 @@ Each relay is connected to a single button on the VFD, as shown. The VFD keypad 
 
 ## Result
 
-https://github.com/user-attachments/assets/61a216fb-f2c9-4f5d-8ab0-22cea4845a12
-
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/61a216fb-f2c9-4f5d-8ab0-22cea4845a12" width="400" />
+</div>
+* video speed 1.6x
 
 ## Issues
 - Take into account the logic of the relays, it depends if they have a dedicated power supply or not
