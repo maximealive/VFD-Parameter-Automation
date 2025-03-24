@@ -43,7 +43,8 @@ Each relay is connected to a single button on the VFD, as shown. The VFD keypad 
 - Take into account the logic of the relays, it depends if they have a dedicated power supply or not.
 - Arduino pins during the boot could go high/low(following the boot processes), be carful about that to avoid unwanted behaviours.
 - Switch bounce: https://docs.arduino.cc/built-in-examples/digital/Debounce/ (debouncing can be handled in hardware or software).
-- https://www.quora.com/How-do-I-change-an-induction-motor-from-a-3-phase-380V-input-to-a-3-phase-220V-input
+- https://www.quora.com/How-do-I-change-an-induction-motor-from-a-3-phase-380V-input-to-a-3-phase-220V-input.
+- Ensure proper motor parameter configuration (e.g., voltage, frequency, torque, etc.) as incorrect values may lead to performance issues or equipment damage..
 
 ## ToDo
 1) Implements remote control using one or more of the following implementations:<br>
