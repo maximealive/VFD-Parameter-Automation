@@ -51,4 +51,4 @@ Each relay is connected to a single button on the VFD, as shown. The VFD keypad 
 
 2) Give the possibility to set and store the motor's parameters -> add an LCD and something like a keypad
 
-3) Implement non-blocking delay (https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay/)
+3) Implement non-blocking delay (https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay/) - improve the code
