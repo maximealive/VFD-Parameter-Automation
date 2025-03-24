@@ -3,7 +3,7 @@
 # Introduction
 Use 380V- AC devices with a 220V-AC furniture in a smart and efficient way using a VFD and an arduino.<br><br>
 <ins> NOTE </ins> <br>
-be sure that you can change the 380V device connections to operate at 220V (useful link: https://www.quora.com/How-do-I-change-an-induction-motor-from-a-3-phase-380V-input-to-a-3-phase-220V-input):<br>
+be sure that you can change the 380V device connections to operate at 220V:<br>
 
 <p align="center">
   <img width="410" height="250" src="https://github.com/user-attachments/assets/c3fd1e39-4385-490a-90b2-c47ab7d462c4">
@@ -39,17 +39,18 @@ Each relay is connected to a single button on the VFD, as shown. The VFD keypad 
 </div>
 * video speed 1.6x
 
-## Issues
-- Take into account the logic of the relays, it depends if they have a dedicated power supply or not
-- Arduino pins during the boot could go high/low, be carful about that to avoid unwanted behaviours
-- Switch bounce: https://docs.arduino.cc/built-in-examples/digital/Debounce/ (debouncing can be handled in hardware or software)
+## Issues/reference
+- Take into account the logic of the relays, it depends if they have a dedicated power supply or not.
+- Arduino pins during the boot could go high/low(following the boot processes), be carful about that to avoid unwanted behaviours.
+- Switch bounce: https://docs.arduino.cc/built-in-examples/digital/Debounce/ (debouncing can be handled in hardware or software).
+- https://www.quora.com/How-do-I-change-an-induction-motor-from-a-3-phase-380V-input-to-a-3-phase-220V-input
 
 ## ToDo
 1) Implements remote control using one or more of the following implementations:<br>
-   - TV remote controller -> accordingly add IR module
-   - Telegram Bot -> change Arduino, for example, with an ESP32 (https://github.com/maximealive/TelegramBot_ESP32-W5500; take into account that an internet connection is required)
-   - Bluetooth -> bluetooth module and an Android/iOS application are required
+   - TV remote controller -> accordingly add IR module.
+   - Telegram Bot -> change Arduino, for example, with an ESP32 (https://github.com/maximealive/TelegramBot_ESP32-W5500; take into account that an internet connection is required).
+   - Bluetooth -> bluetooth module and an Android/iOS application are required.
 
-2) Give the possibility to set and store the motor's parameters -> add an LCD and something like a keypad
+2) Give the possibility to set and store the motor's parameters -> add an LCD and something like a keypad.
 
-3) Implement non-blocking delay (https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay/) - improve the code
+3) Implement non-blocking delay (https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay/) - improve the code.
