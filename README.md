@@ -14,12 +14,13 @@ VFD             |  Arduino (nano)             |5V 8-Channel Relay Module  |
 :-------------------------:|:-------------------------:|:-------------------------:|
 <img src="https://github.com/user-attachments/assets/d701328b-6d08-44ea-a0f6-a48747c7c25a" width="90" height="100" />  |  <img src="https://github.com/user-attachments/assets/fdc74bed-b436-4e63-b077-62585f0678e6" width="100" height="100" />  |<img src="https://github.com/user-attachments/assets/246276cd-cc9f-41c6-be08-7d0bec98bc00" width="100" height="100" />  | 
 
-\* I used the following VFD model: BuoQua 4KW 220V 5HP Trasformatore VFD Velocità Controllato Variatore Di Frequenza Inverter 5HP Frequenza Diver Inverter Professionale
+- VFD model: BuoQua 4KW 220V 5HP Trasformatore VFD Velocità Controllato Variatore Di Frequenza Inverter 5HP Frequenza Diver Inverter Professionale
 
-** Buttons: three external buttons were necessary to control three separate motors driven by a VFD(in my case, one for a sander machine, another one for the planar and the last one for a Toupie machine). Please note that simultaneous control of multiple motors is feasible only if they are identical. Each motor necessitated unique parameter settings, including RPM, torque and so on.
+- Buttons: three external buttons were necessary to control three separate motors driven by a VFD(in my case, one for a sander machine, another one for the planar and the last one for a Toupie machine). Please note that simultaneous control of multiple motors is feasible only if they are identical. Each motor necessitated unique parameter settings, including RPM, torque and so on.
+- Wires/jumpers.
 
 ## Software
-Arduino IDE
+Arduino IDE (all version should be ok)
 
 ## Connections
 Each relay is connected to a single button on the VFD, as shown. The VFD keypad can be unmounted to access the buttons for soldering wires and connecting them to the relay module.
