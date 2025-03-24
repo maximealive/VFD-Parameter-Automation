@@ -20,7 +20,7 @@ VFD             |  Arduino (nano)             |5V 8-Channel Relay Module  |
 - Wires/jumpers.
 
 ## Software
-Arduino IDE (all version should be ok)
+Arduino IDE (all version should be ok).
 
 ## Connections
 Each relay is connected to a single button on the VFD, as shown. The VFD keypad can be unmounted to access the buttons for soldering wires and connecting them to the relay module.
